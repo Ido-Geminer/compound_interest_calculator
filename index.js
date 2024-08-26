@@ -25,7 +25,7 @@ function compoundInterest(
     total = total * ((100 + interest_rate) / 100);
   }
 
-  //Rounding the total to 2 digits after decimal point
+  //rounding the total to 2 digits after decimal point
   return total.toFixed(2);
 }
 
