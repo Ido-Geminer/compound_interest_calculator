@@ -2,7 +2,7 @@ This Project is a compound interest calculator i coded in Javascript as a part o
 
 This Code prompts a user to insert an initial amount, monthly contirbution, number of years and an interest rate, then returns an output in the following form:
 
-INIT AMOUNT:
+INIT AMOUNT:\n
 MONTHLY CONTIRBUTION: 
 NUMBER OF YEARS:
 INTEREST RATE: 
