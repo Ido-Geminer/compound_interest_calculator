@@ -1,7 +1,7 @@
 //importing prompt-sync library and invoking it
 const prompt = require("prompt-sync")();
 
-//Compound interest calculator that prompts a user for some input, and finally calculates the compounded interest value
+//compound interest calculator that prompts a user for some input, and finally calculates the compounded interest value
 
 // let init_amount = 20000;
 // let monthly_contirbution = 400;
