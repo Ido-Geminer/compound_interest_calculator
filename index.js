@@ -29,7 +29,7 @@ function compoundInterest(
   return total.toFixed(2);
 }
 
-//caclulating the final amount if we didnt compound our interest.
+//calculating the final amount if we didnt compound our interest.
 
 //Step 2 - define a function that would calculate the difference (ie the effect compounding has had)
 
